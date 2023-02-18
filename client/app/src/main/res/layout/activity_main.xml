@@ -7,6 +7,12 @@
         android:id="@+id/cpu_usage_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hello World!"
+        android:textSize="24sp"
+        android:padding="16dp"
+        android:background="@drawable/custom_bg"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:layout_gravity="center" />
 
 </LinearLayout>
